@@ -7,3 +7,6 @@
 [submodule "components/whisker"]
 	path = components/whisker
 	url = git@github.com:cooknjs/whisker.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:cooknjs/cooknjs.github.io.git
