@@ -1,0 +1,9 @@
+[submodule "resources"]
+	path = resources
+	url = git@github.com:cooknjs/resources.git
+[submodule "components/basket"]
+	path = components/basket
+	url = git@github.com:cooknjs/basket.git
+[submodule "components/whisker"]
+	path = components/whisker
+	url = git@github.com:cooknjs/whisker.git
