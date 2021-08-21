@@ -1,6 +1,14 @@
 {
+  "name": "@cooknjs",
+  "description": "An i18n aware static site generator",
+  "author": {
+    "name": "Andrea Spada",
+    "email": "spada.andrea@gmail.com"
+  },
+  "license": "MIT",
   "private": true,
   "workspaces": [
     "components/whisker", 
-    "components/basket"]
+    "components/basket"
+  ]
 }
