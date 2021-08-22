@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
+    "components/flours",
     "components/whisker",
     "components/basket"
   ]
